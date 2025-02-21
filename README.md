@@ -1,2 +1,4 @@
 # Livros-React
-Fazendo uma pagina em react para livros
+npm install styled-components
+npx create-react-app .  
+npm install node.js
